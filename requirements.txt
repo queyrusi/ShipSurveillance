@@ -1,0 +1,7 @@
+dash
+geocoder
+pandas
+scrapy
+spacy
+tqdm
+twint
