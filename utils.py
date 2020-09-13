@@ -2,7 +2,7 @@ from datetime import datetime, timedelta
 import plotly.figure_factory as ff
 
 class Utils(object):
-
+    """Utils for date management"""
     @classmethod
     def dateTransform(cls, today, values):
         '''
