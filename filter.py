@@ -1,5 +1,5 @@
 class Filter(object):
-
+    """Filter object applies to ship objects to limit display on app"""
     @classmethod
     def by_value(cls, df, values, functions, columns):
         index = True
