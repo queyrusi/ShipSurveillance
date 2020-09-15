@@ -480,7 +480,5 @@ def update_x_timeseries(hoverData, index):
     return df.to_dict("records"), "Ship List at Position:({}, {})".format(
         hoverData['points'][0]['lon'], hoverData['points'][0]['lat']),
 
-
-# Main
 if __name__ == '__main__':
     app.server.run(debug=True, threaded=True)
