@@ -1,0 +1,1352 @@
+[
+    {
+        "id": 0,
+        "id_number": "S 349",
+        "ship": "TCG Batıray ",
+        "class": "Atılay",
+        "deplacement": 1600,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 1,
+        "id_number": "S 350",
+        "ship": "TCG Yıldıray ",
+        "class": "Atılay",
+        "deplacement": 1600,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 2,
+        "id_number": "S 351",
+        "ship": "TCG Do_anay ",
+        "class": "Atılay",
+        "deplacement": 1600,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 3,
+        "id_number": "S 352",
+        "ship": "TCG Dolunay ",
+        "class": "Atılay",
+        "deplacement": 1600,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 4,
+        "id_number": "S 353",
+        "ship": "TCG Preveze ",
+        "class": "Preveze",
+        "deplacement": 1800,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 5,
+        "id_number": "S 354",
+        "ship": "TCG Sakarya ",
+        "class": "Preveze",
+        "deplacement": 1800,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 6,
+        "id_number": "S 355",
+        "ship": "TCG 18 Mart ",
+        "class": "Preveze",
+        "deplacement": 1800,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 7,
+        "id_number": "S 356",
+        "ship": "TCG Anafartalar ",
+        "class": "Preveze",
+        "deplacement": 1800,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 8,
+        "id_number": "S 357",
+        "ship": "TCG Gür ",
+        "class": "Gür",
+        "deplacement": 1800,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 9,
+        "id_number": "S 358",
+        "ship": "TCG Çanakkale ",
+        "class": "Gür",
+        "deplacement": 1800,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 10,
+        "id_number": "S 359",
+        "ship": "TCG Burakreis ",
+        "class": "Gür",
+        "deplacement": 1800,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 11,
+        "id_number": "S 360",
+        "ship": "TCG I. _nönü ",
+        "class": "Gür",
+        "deplacement": 1800,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 12,
+        "id_number": "F 490",
+        "ship": "TCG Gaziantep ",
+        "class": "Gabya",
+        "deplacement": 4100,
+        "note": "ex US Oliver Hazard Perry-class frigates.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 13,
+        "id_number": "F 491",
+        "ship": "TCG Giresun ",
+        "class": "Gabya",
+        "deplacement": 4100,
+        "note": "ex US Oliver Hazard Perry-class frigates.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 14,
+        "id_number": "F 492",
+        "ship": "TCG Gemlik ",
+        "class": "Gabya",
+        "deplacement": 4100,
+        "note": "ex US Oliver Hazard Perry-class frigates.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 15,
+        "id_number": "F 493",
+        "ship": "TCG Gelibolu ",
+        "class": "Gabya",
+        "deplacement": 4100,
+        "note": "ex US Oliver Hazard Perry-class frigates.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 16,
+        "id_number": "F 494",
+        "ship": "TCG Gökçeada ",
+        "class": "Gabya",
+        "deplacement": 4100,
+        "note": "ex US Oliver Hazard Perry-class frigates.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 17,
+        "id_number": "F 495",
+        "ship": "TCG Gediz ",
+        "class": "Gabya",
+        "deplacement": 4100,
+        "note": "ex US Oliver Hazard Perry-class frigates.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 18,
+        "id_number": "F 496",
+        "ship": "TCG Gökova ",
+        "class": "Gabya",
+        "deplacement": 4100,
+        "note": "ex US Oliver Hazard Perry-class frigates.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 19,
+        "id_number": "F 497",
+        "ship": "TCG Göksu ",
+        "class": "Gabya",
+        "deplacement": 4100,
+        "note": "ex US Oliver Hazard Perry-class frigates.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 20,
+        "id_number": "F 244",
+        "ship": "TCG Barbaros ",
+        "class": "Barbaros",
+        "deplacement": 3300,
+        "note": "DE MEKO 200TN Track IIA.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 21,
+        "id_number": "F 245",
+        "ship": "TCG Oruçreis ",
+        "class": "Barbaros",
+        "deplacement": 3300,
+        "note": "DE MEKO 200TN Track IIA.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 22,
+        "id_number": "F 246",
+        "ship": "TCG Salihreis ",
+        "class": "Barbaros",
+        "deplacement": 3300,
+        "note": "DE MEKO 200TN Track IIA.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 23,
+        "id_number": "F 247",
+        "ship": "TCG Kemalreis ",
+        "class": "Barbaros",
+        "deplacement": 3300,
+        "note": "DE MEKO 200TN Track IIA.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 24,
+        "id_number": "F 240",
+        "ship": "TCG Yavuz ",
+        "class": "Yavuz",
+        "deplacement": 3000,
+        "note": "DE MEKO 200TN Track I.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 25,
+        "id_number": "F 241",
+        "ship": "TCG Turgutreis ",
+        "class": "Yavuz",
+        "deplacement": 3000,
+        "note": "DE MEKO 200TN Track I.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 26,
+        "id_number": "F 242",
+        "ship": "TCG Fatih ",
+        "class": "Yavuz",
+        "deplacement": 3000,
+        "note": "DE MEKO 200TN Track I.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 27,
+        "id_number": "F 243",
+        "ship": "TCG Yıldırım ",
+        "class": "Yavuz",
+        "deplacement": 3000,
+        "note": "DE MEKO 200TN Track I.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 28,
+        "id_number": "F 511",
+        "ship": "TCG Heybeliada ",
+        "class": "Ada",
+        "deplacement": 2300,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 29,
+        "id_number": "F 512",
+        "ship": "TCG Büyükada ",
+        "class": "Ada",
+        "deplacement": 2300,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 30,
+        "id_number": "F 513",
+        "ship": "TCG Burgazada ",
+        "class": "Ada",
+        "deplacement": 2300,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 31,
+        "id_number": "F 514",
+        "ship": "TCG Kınalıada ",
+        "class": "Ada",
+        "deplacement": 2300,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 32,
+        "id_number": "F 500",
+        "ship": "TCG Bozcaada ",
+        "class": "Burak",
+        "deplacement": 1300,
+        "note": "ex D'Estienne d'Orves-class avisos.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 33,
+        "id_number": "F 501",
+        "ship": "TCG Bodrum ",
+        "class": "Burak",
+        "deplacement": 1300,
+        "note": "ex D'Estienne d'Orves-class avisos.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 34,
+        "id_number": "F 502",
+        "ship": "TCG Bandırma ",
+        "class": "Burak",
+        "deplacement": 1300,
+        "note": "ex D'Estienne d'Orves-class avisos.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 35,
+        "id_number": "F 503",
+        "ship": "TCG Beykoz ",
+        "class": "Burak",
+        "deplacement": 1300,
+        "note": "ex D'Estienne d'Orves-class avisos.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 36,
+        "id_number": "F 504",
+        "ship": "TCG Bartın ",
+        "class": "Burak",
+        "deplacement": 1300,
+        "note": "ex D'Estienne d'Orves-class avisos.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 37,
+        "id_number": "F 505",
+        "ship": "TCG Bafra ",
+        "class": "Burak",
+        "deplacement": 1300,
+        "note": "ex D'Estienne d'Orves-class avisos.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 38,
+        "id_number": "P 330",
+        "ship": "TCG Kılıç ",
+        "class": "Kılıç ",
+        "deplacement": 550,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 39,
+        "id_number": "P 331",
+        "ship": "TCG Kalkan ",
+        "class": "Kılıç ",
+        "deplacement": 550,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 40,
+        "id_number": "P 332",
+        "ship": "TCG Mızrak ",
+        "class": "Kılıç ",
+        "deplacement": 550,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 41,
+        "id_number": "P 333",
+        "ship": "TCG Tufan ",
+        "class": "Kılıç ",
+        "deplacement": 550,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 42,
+        "id_number": "P 334",
+        "ship": "TCG Meltem ",
+        "class": "Kılıç ",
+        "deplacement": 550,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 43,
+        "id_number": "P 335",
+        "ship": "TCG _mbat ",
+        "class": "Kılıç ",
+        "deplacement": 550,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 44,
+        "id_number": "P 336",
+        "ship": "TCG Zıpkın ",
+        "class": "Kılıç ",
+        "deplacement": 550,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 45,
+        "id_number": "P 337",
+        "ship": "TCG Atak ",
+        "class": "Kılıç ",
+        "deplacement": 550,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 46,
+        "id_number": "P 338",
+        "ship": "TCG Bora ",
+        "class": "Kılıç ",
+        "deplacement": 550,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 47,
+        "id_number": "P 348",
+        "ship": "TCG Yıldız ",
+        "class": "Yıldız",
+        "deplacement": 430,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 48,
+        "id_number": "P 349",
+        "ship": "TCG Karayel ",
+        "class": "Yıldız",
+        "deplacement": 430,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 49,
+        "id_number": "P 340",
+        "ship": "TCG Do_an ",
+        "class": "Do_an",
+        "deplacement": 430,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 50,
+        "id_number": "P 341",
+        "ship": "TCG Martı ",
+        "class": "Do_an",
+        "deplacement": 430,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 51,
+        "id_number": "P 342",
+        "ship": "TCG Tayfun ",
+        "class": "Do_an",
+        "deplacement": 430,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 52,
+        "id_number": "P 343",
+        "ship": "TCG Volkan ",
+        "class": "Do_an",
+        "deplacement": 430,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 53,
+        "id_number": "P 344",
+        "ship": "TCG Rüzgâr ",
+        "class": "Rüzgar",
+        "deplacement": 410,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 54,
+        "id_number": "P 345",
+        "ship": "TCG Poyraz ",
+        "class": "Rüzgar",
+        "deplacement": 410,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 55,
+        "id_number": "P 346",
+        "ship": "TCG Gurbet ",
+        "class": "Rüzgar",
+        "deplacement": 410,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 56,
+        "id_number": "P 347",
+        "ship": "TCG Fırtına ",
+        "class": "Rüzgar",
+        "deplacement": 410,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 57,
+        "id_number": "P 1200",
+        "ship": "TCG Tuzla ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 58,
+        "id_number": "P 1201",
+        "ship": "TCG Karaburun ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 59,
+        "id_number": "P 1202",
+        "ship": "TCG Köyce_iz ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 60,
+        "id_number": "P 1203",
+        "ship": "TCG Kumkale ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 61,
+        "id_number": "P 1204",
+        "ship": "TCG Tarsus ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 62,
+        "id_number": "P 1205",
+        "ship": "TCG Karabiga ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 63,
+        "id_number": "P 1206",
+        "ship": "TCG Kar_ıyaka ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 64,
+        "id_number": "P 1207",
+        "ship": "TCG Tekirda_ ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 65,
+        "id_number": "P 1208",
+        "ship": "TCG Ka_ ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 66,
+        "id_number": "P 1209",
+        "ship": "TCG Kilimli ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 67,
+        "id_number": "P 1210",
+        "ship": "TCG Türkeli ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 68,
+        "id_number": "P 1211",
+        "ship": "TCG Ta_ucu ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 69,
+        "id_number": "P 1212",
+        "ship": "TCG Karata_ ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 70,
+        "id_number": "P 1213",
+        "ship": "TCG Karpaz ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 71,
+        "id_number": "P 1214",
+        "ship": "TCG Kdz.Ere_li ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 72,
+        "id_number": "P 1215",
+        "ship": "TCG Ku_adası ",
+        "class": "Tuzla",
+        "deplacement": 400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 73,
+        "id_number": "M 265",
+        "ship": "TCG Alanya ",
+        "class": "Aydın",
+        "deplacement": 657,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 74,
+        "id_number": "M 266",
+        "ship": "TCG Amasra ",
+        "class": "Aydın",
+        "deplacement": 657,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 75,
+        "id_number": "M 267",
+        "ship": "TCG Ayvalık ",
+        "class": "Aydın",
+        "deplacement": 657,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 76,
+        "id_number": "M 268",
+        "ship": "TCG Akçakoca ",
+        "class": "Aydın",
+        "deplacement": 657,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 77,
+        "id_number": "M 269",
+        "ship": "TCG Anamur ",
+        "class": "Aydın",
+        "deplacement": 657,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 78,
+        "id_number": "M 270",
+        "ship": "TCG Akçay ",
+        "class": "Aydın",
+        "deplacement": 657,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 79,
+        "id_number": "M 260",
+        "ship": "TCG Edincik ",
+        "class": "Engin",
+        "deplacement": 510,
+        "note": "ex Circe class minehunter",
+        "pays": "Turkey"
+    },
+    {
+        "id": 80,
+        "id_number": "M 261",
+        "ship": "TCG Edremit ",
+        "class": "Engin",
+        "deplacement": 510,
+        "note": "ex Circe class minehunter",
+        "pays": "Turkey"
+    },
+    {
+        "id": 81,
+        "id_number": "M 262",
+        "ship": "TCG Enez ",
+        "class": "Engin",
+        "deplacement": 510,
+        "note": "ex Circe class minehunter",
+        "pays": "Turkey"
+    },
+    {
+        "id": 82,
+        "id_number": "M 263",
+        "ship": "TCG Erdek ",
+        "class": "Engin",
+        "deplacement": 510,
+        "note": "ex Circe class minehunter",
+        "pays": "Turkey"
+    },
+    {
+        "id": 83,
+        "id_number": "M 264",
+        "ship": "TCG Erdemli ",
+        "class": "Engin",
+        "deplacement": 510,
+        "note": "ex Circe class minehunter",
+        "pays": "Turkey"
+    },
+    {
+        "id": 84,
+        "id_number": "L 402",
+        "ship": "TCG Bayraktar ",
+        "class": "Bayraktar",
+        "deplacement": 7254,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 85,
+        "id_number": "L 403",
+        "ship": "TCG Sancaktar ",
+        "class": "Bayraktar",
+        "deplacement": 7254,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 86,
+        "id_number": "NL 125",
+        "ship": "TCG Osman Gazi ",
+        "class": "Osman Gazi",
+        "deplacement": 3700,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 87,
+        "id_number": "NL 123",
+        "ship": "TCG Sarucabey ",
+        "class": "Bey",
+        "deplacement": 2600,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 88,
+        "id_number": "NL 124",
+        "ship": "TCG Karamürsel ",
+        "class": "Bey",
+        "deplacement": 2600,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 89,
+        "id_number": "Ç 132",
+        "ship": "TCG TCG Ç-132 ",
+        "class": "130",
+        "deplacement": 600,
+        "note": "ex Engin de débarquement d'infanterie et de chars",
+        "pays": "Turkey"
+    },
+    {
+        "id": 90,
+        "id_number": "Ç 138",
+        "ship": "TCG TCG Ç-138 ",
+        "class": "130",
+        "deplacement": 600,
+        "note": "ex Engin de débarquement d'infanterie et de chars",
+        "pays": "Turkey"
+    },
+    {
+        "id": 91,
+        "id_number": "Ç 140",
+        "ship": "TCG TCG Ç-140 ",
+        "class": "140",
+        "deplacement": 1300,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 92,
+        "id_number": "Ç 141",
+        "ship": "TCG TCG Ç-141 ",
+        "class": "140",
+        "deplacement": 1300,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 93,
+        "id_number": "Ç 142",
+        "ship": "TCG TCG Ç-142 ",
+        "class": "140",
+        "deplacement": 1300,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 94,
+        "id_number": "Ç 143",
+        "ship": "TCG TCG Ç-143 ",
+        "class": "140",
+        "deplacement": 1300,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 95,
+        "id_number": "Ç 144",
+        "ship": "TCG TCG Ç-144 ",
+        "class": "140",
+        "deplacement": 1300,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 96,
+        "id_number": "Ç 145",
+        "ship": "TCG TCG Ç-145 ",
+        "class": "140",
+        "deplacement": 1300,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 97,
+        "id_number": "Ç 146",
+        "ship": "TCG TCG Ç-146 ",
+        "class": "140",
+        "deplacement": 1300,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 98,
+        "id_number": "Ç 147",
+        "ship": "TCG TCG Ç-147 ",
+        "class": "140",
+        "deplacement": 1300,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 99,
+        "id_number": "Ç 148",
+        "ship": "TCG TCG Ç-148 ",
+        "class": "140",
+        "deplacement": 1300,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 100,
+        "id_number": "Ç 149",
+        "ship": "TCG TCG Ç-149 ",
+        "class": "140",
+        "deplacement": 1300,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 101,
+        "id_number": "Ç 150",
+        "ship": "TCG TCG Ç-150 ",
+        "class": "150",
+        "deplacement": 1160,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 102,
+        "id_number": "Ç 151",
+        "ship": "TCG TCG Ç-151 ",
+        "class": "150",
+        "deplacement": 1160,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 103,
+        "id_number": "Ç 152",
+        "ship": "TCG TCG Ç-152 ",
+        "class": "150",
+        "deplacement": 1160,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 104,
+        "id_number": "Ç 153",
+        "ship": "TCG TCG Ç-153 ",
+        "class": "150",
+        "deplacement": 1160,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 105,
+        "id_number": "Ç 154",
+        "ship": "TCG TCG Ç-154 ",
+        "class": "150",
+        "deplacement": 1160,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 106,
+        "id_number": "Ç 155",
+        "ship": "TCG TCG Ç-155 ",
+        "class": "150",
+        "deplacement": 1160,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 107,
+        "id_number": "Ç 156",
+        "ship": "TCG TCG Ç-156 ",
+        "class": "150",
+        "deplacement": 1160,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 108,
+        "id_number": "Ç 157",
+        "ship": "TCG TCG Ç-157 ",
+        "class": "150",
+        "deplacement": 1160,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 109,
+        "id_number": "Ç 158",
+        "ship": "TCG TCG Ç-158 ",
+        "class": "150",
+        "deplacement": 1160,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 110,
+        "id_number": "Ç 321",
+        "ship": "TCG TCG Ç-321 ",
+        "class": "320",
+        "deplacement": 113,
+        "note": "ex LCM8-class",
+        "pays": "Turkey"
+    },
+    {
+        "id": 111,
+        "id_number": "Ç 322",
+        "ship": "TCG TCG Ç-322 ",
+        "class": "320",
+        "deplacement": 113,
+        "note": "ex LCM8-class",
+        "pays": "Turkey"
+    },
+    {
+        "id": 112,
+        "id_number": "Ç 324",
+        "ship": "TCG TCG Ç-324 ",
+        "class": "320",
+        "deplacement": 113,
+        "note": "ex LCM8-class",
+        "pays": "Turkey"
+    },
+    {
+        "id": 113,
+        "id_number": "Ç 326",
+        "ship": "TCG TCG Ç-326 ",
+        "class": "320",
+        "deplacement": 113,
+        "note": "ex LCM8-class",
+        "pays": "Turkey"
+    },
+    {
+        "id": 114,
+        "id_number": "Ç 327",
+        "ship": "TCG TCG Ç-327 ",
+        "class": "320",
+        "deplacement": 113,
+        "note": "ex LCM8-class",
+        "pays": "Turkey"
+    },
+    {
+        "id": 115,
+        "id_number": "Ç 329",
+        "ship": "TCG TCG Ç-329 ",
+        "class": "320",
+        "deplacement": 113,
+        "note": "ex LCM8-class",
+        "pays": "Turkey"
+    },
+    {
+        "id": 116,
+        "id_number": "Ç 330",
+        "ship": "TCG TCG Ç-330 ",
+        "class": "320",
+        "deplacement": 113,
+        "note": "ex LCM8-class",
+        "pays": "Turkey"
+    },
+    {
+        "id": 117,
+        "id_number": "Ç 331",
+        "ship": "TCG TCG Ç-331 ",
+        "class": "320",
+        "deplacement": 113,
+        "note": "ex LCM8-class",
+        "pays": "Turkey"
+    },
+    {
+        "id": 118,
+        "id_number": "A 579",
+        "ship": "TCG Cezayirli Gazi Hasan Pa_a ",
+        "class": "Cezayirli Hasan Pa_a",
+        "deplacement": 2940,
+        "note": "ex Rhein-class tenders.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 119,
+        "id_number": "A 577",
+        "ship": "TCG Sokullu Mehmet Pa_a ",
+        "class": "Cezayirli Hasan Pa_a",
+        "deplacement": 2940,
+        "note": "ex Rhein-class tenders.",
+        "pays": "Turkey"
+    },
+    {
+        "id": 120,
+        "id_number": "A 1531",
+        "ship": "TCG E-1 ",
+        "class": "E",
+        "deplacement": 97,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 121,
+        "id_number": "A 1532",
+        "ship": "TCG E-2 ",
+        "class": "E",
+        "deplacement": 97,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 122,
+        "id_number": "A 1533",
+        "ship": "TCG E-3 ",
+        "class": "E",
+        "deplacement": 97,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 123,
+        "id_number": "A 1534",
+        "ship": "TCG E-4 ",
+        "class": "E",
+        "deplacement": 97,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 124,
+        "id_number": "A 1535",
+        "ship": "TCG E-5 ",
+        "class": "E",
+        "deplacement": 97,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 125,
+        "id_number": "A 1536",
+        "ship": "TCG E-6 ",
+        "class": "E",
+        "deplacement": 97,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 126,
+        "id_number": "A 1537",
+        "ship": "TCG E-7 ",
+        "class": "E",
+        "deplacement": 97,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 127,
+        "id_number": "A 1538",
+        "ship": "TCG E-8 ",
+        "class": "E",
+        "deplacement": 97,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 128,
+        "id_number": "A 580",
+        "ship": "TCG Akar ",
+        "class": "Akar",
+        "deplacement": 19350,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 129,
+        "id_number": "A 595",
+        "ship": "TCG Yüzba_ı Kudret Güngör ",
+        "class": "Akar",
+        "deplacement": 19350,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 130,
+        "id_number": "A 571",
+        "ship": "TCG Albay Hakkı Burak ",
+        "class": "Albay Hakkı Burak",
+        "deplacement": 3200,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 131,
+        "id_number": "A 572",
+        "ship": "TCG Yüzba_ı _hsan Tulunay ",
+        "class": "Albay Hakkı Burak",
+        "deplacement": 3200,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 132,
+        "id_number": "A 1600",
+        "ship": "TCG _skenderun ",
+        "class": "_skenderun",
+        "deplacement": 7948,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 133,
+        "id_number": "A 582",
+        "ship": "TCG Alemdar ",
+        "class": "Alemdar",
+        "deplacement": 8000,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 134,
+        "id_number": "A 584",
+        "ship": "TCG Akin ",
+        "class": "Alemdar",
+        "deplacement": 8000,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 135,
+        "id_number": "A 1580",
+        "ship": "TCG A_-5 ",
+        "class": "AN103",
+        "deplacement": 960,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 136,
+        "id_number": "A 1581",
+        "ship": "TCG A_-6 ",
+        "class": "AN93",
+        "deplacement": 855,
+        "note": "ex HNLMS Cerberus (A895)",
+        "pays": "Turkey"
+    },
+    {
+        "id": 137,
+        "id_number": "A 583",
+        "ship": "TCG I_ın ",
+        "class": "I_ın",
+        "deplacement": 2400,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 138,
+        "id_number": "A 950",
+        "ship": "TCG _nebolu ",
+        "class": "_nebolu",
+        "deplacement": 2260,
+        "note": "ex USNS Powhatan (T-ATF-166)",
+        "pays": "Turkey"
+    },
+    {
+        "id": 139,
+        "id_number": "A 586",
+        "ship": "TCG Akba_ ",
+        "class": "Darıca",
+        "deplacement": 1682,
+        "note": "ex Almaz-class tugboat",
+        "pays": "Turkey"
+    },
+    {
+        "id": 140,
+        "id_number": "A 576",
+        "ship": "TCG De_irmendere ",
+        "class": "De_irmendere",
+        "deplacement": 1580,
+        "note": "ex Centaure (A674)",
+        "pays": "Turkey"
+    },
+    {
+        "id": 141,
+        "id_number": "A 578",
+        "ship": "TCG Darıca ",
+        "class": "Darıca",
+        "deplacement": 750,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 142,
+        "id_number": "A 1540",
+        "ship": "TCG Önder ",
+        "class": "Önder",
+        "deplacement": 420,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 143,
+        "id_number": "A 1541",
+        "ship": "TCG Öncü ",
+        "class": "Önder",
+        "deplacement": 420,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 144,
+        "id_number": "A 1542",
+        "ship": "TCG Özgev ",
+        "class": "Önder",
+        "deplacement": 420,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 145,
+        "id_number": "A 1543",
+        "ship": "TCG Ödev ",
+        "class": "Önder",
+        "deplacement": 420,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 146,
+        "id_number": "A 1544",
+        "ship": "TCG Özgür ",
+        "class": "Önder",
+        "deplacement": 420,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 147,
+        "id_number": "A 599",
+        "ship": "TCG Çe_me ",
+        "class": "Çe_me",
+        "deplacement": 2550,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 148,
+        "id_number": "A 588",
+        "ship": "TCG Çandarlı ",
+        "class": "Çe_me",
+        "deplacement": 2550,
+        "note": "",
+        "pays": "Turkey"
+    },
+    {
+        "id": 149,
+        "id_number": "A 594",
+        "ship": "TCG Çubuklu ",
+        "class": "Çubuklu",
+        "deplacement": 643,
+        "note": "",
+        "pays": "Turkey"
+    }
+]

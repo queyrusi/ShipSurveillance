@@ -1,0 +1,155 @@
+[
+    {
+        "id": 0,
+        "id_number": "F-312",
+        "ship": "HNoMS Otto Sverdrup",
+        "class": "Fridtjof Nansen",
+        "type": "Fregate",
+        "nationality": "Norway",
+        "pays": "Norway"
+    },
+    {
+        "id": 1,
+        "id_number": "L-16",
+        "ship": "HDMS Absalon",
+        "class": "Absalon",
+        "type": "Command and support ship",
+        "nationality": "Danemark",
+        "pays": "Danemark"
+    },
+    {
+        "id": 2,
+        "id_number": "F-591",
+        "ship": "ITS Virginio Fasan",
+        "class": "FREMM-IT",
+        "type": "multi purpose Frigate",
+        "nationality": "Italy",
+        "pays": "Italy"
+    },
+    {
+        "id": 3,
+        "id_number": "337",
+        "ship": "HMCS Fredericton",
+        "class": "Halifax",
+        "type": "multi-role patrol frigates",
+        "nationality": "Canada",
+        "pays": "Canada"
+    },
+    {
+        "id": 4,
+        "id_number": "F-246",
+        "ship": "TCG Salihreis",
+        "class": "Barbaros",
+        "type": "frigates",
+        "nationality": "Turkish",
+        "pays": "Turkish"
+    },
+    {
+        "id": 5,
+        "id_number": "F-218",
+        "ship": "FGS Mecklenburg-Vorpommern",
+        "class": "Brandenburg",
+        "type": "Guided-Missile Frigate",
+        "nationality": "Germany",
+        "pays": "Germany"
+    },
+    {
+        "id": 6,
+        "id_number": "M-19",
+        "ship": "HS Navmachos",
+        "class": "Osprey 55",
+        "type": "Patrol Boat",
+        "nationality": "Greek",
+        "pays": "Greek"
+    },
+    {
+        "id": 7,
+        "id_number": "P-57",
+        "ship": "HS Kasos",
+        "class": "Gunboat HSY-55",
+        "type": "",
+        "nationality": "Greek",
+        "pays": "Greek"
+    },
+    {
+        "id": 8,
+        "id_number": "P-29",
+        "ship": "HS Starakis",
+        "class": " La Combattante IIIb",
+        "type": "missile boats",
+        "nationality": "Greek",
+        "pays": "Greek"
+    },
+    {
+        "id": 9,
+        "id_number": "P-1203",
+        "ship": "TCG Kumkale",
+        "class": "Tuzla",
+        "type": "Patrol Boat",
+        "nationality": "Turkish",
+        "pays": "Turkish"
+    },
+    {
+        "id": 10,
+        "id_number": "A-516",
+        "ship": "FGS Donau",
+        "class": "Elbe",
+        "type": "replenishment ship",
+        "nationality": "Germany",
+        "pays": "Germany"
+    },
+    {
+        "id": 11,
+        "id_number": "M-916",
+        "ship": "BNS Bellis",
+        "class": "Tripartite",
+        "type": "Minehunter",
+        "nationality": "Belgium",
+        "pays": "Belgium"
+    },
+    {
+        "id": 12,
+        "id_number": "337",
+        "ship": "HNLMS Willemstad",
+        "class": "Alkmaar",
+        "type": "minehunters",
+        "nationality": "Netherlands",
+        "pays": "Netherlands"
+    },
+    {
+        "id": 13,
+        "id_number": "M-108",
+        "ship": "HMS Grimsby",
+        "class": "Sandown",
+        "type": "Minehunter",
+        "nationality": "Royal Navy",
+        "pays": "Royal Navy"
+    },
+    {
+        "id": 14,
+        "id_number": "274",
+        "ship": "ROS Vice Admiral Constantin Balescu",
+        "class": "Vice Admiral Ioan Murgescu",
+        "type": "Minelayers",
+        "nationality": "Romania",
+        "pays": "Romania"
+    },
+    {
+        "id": 15,
+        "id_number": "M-270",
+        "ship": "TCG Akçay",
+        "class": "Aydin",
+        "type": "mine hunter",
+        "nationality": "Turkish",
+        "pays": "Turkish"
+    },
+    {
+        "id": 16,
+        "id_number": "337",
+        "ship": "FGS Fulda",
+        "class": "Frankenthal",
+        "type": "minehunter",
+        "nationality": "Germany",
+        "pays": "Germany"
+    }
+]
