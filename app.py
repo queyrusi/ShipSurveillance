@@ -22,6 +22,7 @@ import time
 
 colors = ["royalblue", "crimson", "lightseagreen", "orange", "lightgrey"]
 
+# app may crash if not launched on terminal
 app = dash.Dash(__name__)
 server = app.server
 
